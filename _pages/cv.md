@@ -9,32 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
+Current Position
+======
+* Assistant Professor, Department of Public Policy, Central European University, August 2015 -  
+  * Affiliate Faculty: Social Mind Center
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. University of Maryland, College Park
+* M.S. University of Arizona, Tucson 
+* M.A. Jawaharlal Nehru University, New Delhi
+* B.Com. Bangalore University (St. Joseph's College)
 
-Work experience
+
+
+Personal information 
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Born December 1980, Bangalore, India. Male. Indian Citizen 
   
-Skills
+Research and teaching interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Environment and Development
+* Public and Experimental Economics 
+
 
 Publications
 ======
