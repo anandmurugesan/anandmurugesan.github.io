@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anand Murugesan / Personal website"
+title                    : "Anand Murugesan"
 title_separator          : "-"
 name                     : &name "Anand Murugesan"
 description              : &description "Economist/Humanist"
