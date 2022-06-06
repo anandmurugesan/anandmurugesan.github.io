@@ -11,7 +11,7 @@ redirect_from:
 
 Current Position
 ======
-* Assistant Professor, Department of Public Policy, Central European University, August 2015 -  
+* Assistant Professor of Economics, Department of Public Policy, Central European University, August 2015 -  
   * Affiliate Faculty: Social Mind Center
 
 Education
